@@ -14,6 +14,10 @@ The repository currently contains the source code for the 'Far from Oasis' game,
 ## Prototype
 Prototype made with figma, accessible by the following link: <br>
 https://www.figma.com/file/VvsvzAifcmH1hVuW0togjE/Pulang-Prototype?node-id=17%3A59
+<br>
+<br>
+Demo video: <br>
+https://youtu.be/nBFHWWqzXzk
 
 ## Techstack
 HTML, CSS, JavaScript, node.js. <br>
