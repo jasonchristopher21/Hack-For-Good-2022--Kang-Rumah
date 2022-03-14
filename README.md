@@ -21,4 +21,4 @@ https://youtu.be/nBFHWWqzXzk
 
 ## Techstack
 HTML, CSS, JavaScript, node.js. <br>
-Canvas boilerplate (HTML5 based) from https://github.com/christopher4lis/canvas-boilerplate
+Canvas boilerplate (HTML5 based) from Christopher Lis, available for personal and commercial use. <br> https://github.com/christopher4lis/canvas-boilerplate
