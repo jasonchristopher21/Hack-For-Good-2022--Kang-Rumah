@@ -18,6 +18,10 @@ https://www.figma.com/file/VvsvzAifcmH1hVuW0togjE/Pulang-Prototype?node-id=17%3A
 <br>
 Demo video: <br>
 https://youtu.be/nBFHWWqzXzk
+<br>
+<br>
+Pitch deck: <br>
+https://www.canva.com/design/DAE6yJdDv4U/b51RwIMc8ZC1xRQLSP2gXA/view?utm_content=DAE6yJdDv4U&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 ## Techstack
 HTML, CSS, JavaScript, node.js. <br>
